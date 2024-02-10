@@ -2,7 +2,7 @@
 - 👀 I’m interested in Sotware Development
 - 🌱 I’m currently learning C#,Flutter Framework
 - 💞️ I’m looking to collaborate on Software stuff 👍🏿
-- 📫 How to reach me ... mwingirautwah@gmal.com
+- 📫 How to reach me ... mwingirautwah@gmail.com
 - ⚡ Fun fact: i am really good at FIFA ⚽
 
 <!---
